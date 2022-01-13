@@ -1,3 +1,7 @@
-1. intelephense : untuk mempersingkat script tag php
+1. PHP intelephense : untuk mempersingkat script tag php
 2. live server : untuk memberikan fasilitas layanan kepada developer agar mudah untuk meilhat hasil kodingan yang dibuat pada browser
 3. prettier : untuk memberikan fasilitas layanan kepada developer untuk merapikan hasil kodingan yang dibuat secara otomatis pada saat di save/menyimpan
+4. Auto rename tag : untuk memperbaiki tag script html yang tidak beraturan
+5. EJS Language support : untuk membantu konfigurasi script Javascript pada nodeJS
+6. Live sass compiler : untuk mengcompile data sass dan scss menjadi css
+7. open in browser : untuk membantu dalam membuka project website di browser
