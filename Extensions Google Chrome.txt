@@ -1,0 +1,7 @@
+Data Extensions Google Chrome
+
+1. Web Developer : untuk mengetahui bagaimana jika komponen dihilangkan sementara, tampilannya seperti apa
+2. JSONview : untuk melihat bagaimana tampilan data JSON pada browser
+3. Awesome Screenshot : untuk mencapture gambar halaman sebuah website menjadi satu
+4. whatfont : untuk mengetahui jenis tulisan seperti apa yang di pakai di dalam website
+5. wappalyzer : untuk mengetahui di dalam sebuah web menggunakan teknologi seperti apa
