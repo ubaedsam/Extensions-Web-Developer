@@ -5,3 +5,6 @@
 5. EJS Language support : untuk membantu konfigurasi script Javascript pada nodeJS
 6. Live sass compiler : untuk mengcompile data sass dan scss menjadi css
 7. open in browser : untuk membantu dalam membuka project website di browser
+8. Tailwind CSS Intellisens : untuk mengetahui data class tailwindcss
+9. Live Preview : untuk melihat hasil pembuatan website di dalam aplikasi visual studio code
+10. PostCSS Language Support :
