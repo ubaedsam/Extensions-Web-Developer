@@ -1,10 +1,36 @@
+~ HTML dan CSS ~
+1. Intellisense for css classname : untuk mengetahui ada data class css seperti apa yang ada di bootstrap
+2. CSS Peek : untuk mengetahui data css yang terhubung ke data class html yang mana
+3. indent rainbow : untuk mengetahui pasangan tag yang mana ada di program yang dibuat
+4. Beautify : untuk merapikan tag html, javascript, dan css
+5. Auto rename tag : untuk memperbaiki tag script html yang tidak beraturan
+
+~ PHP ~
 1. PHP intelephense : untuk mempersingkat script tag php
-2. live server : untuk memberikan fasilitas layanan kepada developer agar mudah untuk meilhat hasil kodingan yang dibuat pada browser
-3. prettier : untuk memberikan fasilitas layanan kepada developer untuk merapikan hasil kodingan yang dibuat secara otomatis pada saat di save/menyimpan
-4. Auto rename tag : untuk memperbaiki tag script html yang tidak beraturan
-5. EJS Language support : untuk membantu konfigurasi script Javascript pada nodeJS
-6. Live sass compiler : untuk mengcompile data sass dan scss menjadi css
-7. open in browser : untuk membantu dalam membuka project website di browser
-8. Tailwind CSS Intellisens : untuk mengetahui data class tailwindcss
-9. Live Preview : untuk melihat hasil pembuatan website di dalam aplikasi visual studio code
-10. PostCSS Language Support :
+2. Bracket pair colorlizer : untuk mengetahui pasangan tag buka kurung pada tag php
+3. php intelisense for codeigniter : untuk membantu dalam pembuatan program menggunakan framework codeigniter
+4. laravel 5 snippet : untuk membantu dalam pembuatan program menggunakan framework laravel
+5. laravel blade snippet : untuk membantu dalam pembuatan program menggunakan framework codeigniter
+
+info : jika ingin membuat program menggunakan framework codeigniter extensions buat laravel harap matikan sebaliknya juga begitu
+
+~ Javascript dan NodeJS ~
+1. EJS Language support : untuk membantu konfigurasi script Javascript pada nodeJS
+2. Quoka JS : untuk membantu melihat hasil tampilan javascript tanpa terhubung ke html (wajib ada nodeJS di komputer)
+
+~ SASS ~
+1. Live sass compiler : untuk mengcompile data sass dan scss menjadi css
+
+~ Tailwind CSS ~
+1. Tailwind CSS Intellisens : untuk mengetahui data class tailwindcss
+2. PostCSS Language Support : untuk mengetahui dan membantu dalam memahami bahasa postCSS
+
+Pendukung
+1. live server : untuk memberikan fasilitas layanan kepada developer agar mudah untuk meilhat hasil kodingan yang dibuat pada browser
+2. prettier : untuk memberikan fasilitas layanan kepada developer untuk merapikan hasil kodingan yang dibuat secara otomatis pada saat di save/menyimpan
+3. open in browser : untuk membantu dalam membuka project website di browser 
+4. Live Preview : untuk melihat hasil pembuatan website di dalam aplikasi visual studio code 
+5. One Dark pro : untuk merubah tema tampilan dari visual studio code
+6. Mayukai theme : untuk merubah tema tampilan dari visual studio code
+7. Peacock : untuk merubah tampilan warna workspace dari visual studio code akan sangat membantu jika mengerjakan 2 project
+8. bootstrap : untuk membantu mengetahui beberapa class bootstrap yang ingin dipakai
