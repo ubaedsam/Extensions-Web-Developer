@@ -1,7 +1,27 @@
-Data Extensions Google Chrome
+Data Extensions Google Chrome untuk Web Developer dan Web Designer
 
 1. Web Developer : untuk mengetahui bagaimana jika komponen dihilangkan sementara, tampilannya seperti apa
 2. JSONview : untuk melihat bagaimana tampilan data JSON pada browser
 3. Awesome Screenshot : untuk mencapture gambar halaman sebuah website menjadi satu
 4. whatfont : untuk mengetahui jenis tulisan seperti apa yang di pakai di dalam website
 5. wappalyzer : untuk mengetahui di dalam sebuah web menggunakan teknologi seperti apa
+6. Pageruler : untuk mengukur ukuran dari sebuah website
+7. Dimensions : untuk mengukur ukuran dari sebuah website
+8. colorpick eyedroper : untuk mengetahui warna apa yang digunakan pada website di internet
+9. CSS Viewer : untuk mengetahui Data CSS dari sebuah website
+Info :
+- CTRL+C : Untuk menyimpan data file tersebut ke dalam komputer
+- F : untuk mengunci data CSS yang telah di lihat
+- ESC : untuk menonaktifkan CSS Viewer
+10. User-agent switcher for google chrome : untuk mengetahui identitas dari sebuah website jika tampil di semua device
+11. Marmoset : membuat script codingan menjadi gambar
+12. Momentum : untuk mengubah tampilan pada saat membuka tab baru akan muncul tampilan yang diinginkan
+13. Buildwith technologi profiler : untuk mengetahui sebuah website menggunakan teknologi apa
+14. Paint tool for chrome : untuk membantu dalam mempersentasikan sebuah program di dalam browser google chrome
+15. CSS Peeper : untuk mengetahui data CSS seperti apa yang dipakai di dalam website
+16. Stylebot : untuk merubah tampilan dari sebuah website jika diinginkan
+17. WCAG Contrast : untuk mengetahui sebuah elemen cahaya/warna dari website sudah bagus atau tidak
+18. Mobile simulator : untuk mengetahui bagaimana tampilan dari sebuah website jika terbuka di semua device
+19. Lighthouse : untuk mengetahui seberapa cepat website / program yang dibuat jika di jalankan
+20. Lipsum Generator : untuk membuat semua kalimat text di dalam website
+21. Dark Reader : untuk membuat bagaimana tampilan dari sebuah website jika terdapat fitur dark mode
