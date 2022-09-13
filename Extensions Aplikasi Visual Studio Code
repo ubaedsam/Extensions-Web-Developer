@@ -25,6 +25,13 @@ info : jika ingin membuat program menggunakan framework codeigniter extensions b
 1. Tailwind CSS Intellisens : untuk mengetahui data class tailwindcss
 2. PostCSS Language Support : untuk mengetahui dan membantu dalam memahami bahasa postCSS
 
+Framework Laravel
+1. Laravel Artisan : untuk mempermudah konfigurasi data menggunakan php artisan
+2. Laravel Blade Snippets
+3. Laravel Blade Spacer
+4. Laravel Go To View
+5. Laravel Snippets
+
 Pendukung
 1. live server : untuk memberikan fasilitas layanan kepada developer agar mudah untuk meilhat hasil kodingan yang dibuat pada browser
 2. prettier : untuk memberikan fasilitas layanan kepada developer untuk merapikan hasil kodingan yang dibuat secara otomatis pada saat di save/menyimpan
