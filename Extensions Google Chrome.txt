@@ -26,3 +26,4 @@ Info :
 20. Lipsum Generator : untuk membuat semua kalimat text di dalam website
 21. Dark Reader : untuk membuat bagaimana tampilan dari sebuah website jika terdapat fitur dark mode
 22. Placholdifier : untuk menjaga privasi mengubah tampilan dari sebuah program isinya dibuat menjadi placeholder (blur) di dalam sebuah komputer pada saat melakukan persentasi, meeting, demo website, dan masih banyak lagi
+23. Clockwork : untuk mengecek performa program
