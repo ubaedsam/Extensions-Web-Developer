@@ -11,6 +11,7 @@
 3. php intelisense for codeigniter : untuk membantu dalam pembuatan program menggunakan framework codeigniter
 4. laravel 5 snippet : untuk membantu dalam pembuatan program menggunakan framework laravel
 5. laravel blade snippet : untuk membantu dalam pembuatan program menggunakan framework codeigniter
+6. PHP Namespace Resolve : untuk membantu mempercepat coding di framework laravel, codeigniter dan framework lainnya
 
 info : jika ingin membuat program menggunakan framework codeigniter extensions buat laravel harap matikan sebaliknya juga begitu
 
